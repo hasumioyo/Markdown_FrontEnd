@@ -24,10 +24,10 @@ JavaScript memiliki peran penting dalam pengembangan permainan berbasis web, men
 * Meskipun memiliki fleksibilitas kreatif, front-end menghadapi masalah terkati kompatibilitas browser dan kinerja. Perbedaan antar browser dapat menyebabkan ketidaksesuaian dalam tampilan, sehingga memerlukan pengujian dan pemecahan masalah yang mendalam. Fokus pada antarmuka pengguna juga mungkin memerlukan langkah-langkah keamanan yang ketat, karena hal ini dapat mengekspos kelemahan yang bisa dimanfaatkan oleh pihak yang tidak bertanggung jawab.
 
 
-### Tren Pengembangan JavaScript 2025
-1. Munculnya AI (Artificial Intelligence)\
+### Tren Pengembangan JavaScript 2025  
+#### 1. Pencocokan Pola dalam JavaScript
   Masa depan pengembangan front-end semakin dipengaruhi oleh AI, yang membuat pengalaman pengguna lebih baik dan meningkatkan produktivitas. AI membantu mempercepat proses penulisan kode, mengurangi pekerjaan yang membosankan, dan meningkatkan efisiensi dalam refactoring. Alat seperti Cursor dapt mengotomatiskan tugas-tugas yang berulang, sehingga pengembang bisa lebih fokus pada masalah yang lebih rumit. Dengan semakin banyaknya integrasi AI, penting bagi pengembang untuk terus belajar agar tetap relavan. Selain itu, kolaborasi yang didorong oleh AI juga mendorong pengembang untuk beradaptasi dengan keterampilan baru, menjadikan pembelajaran berkelanjutan sebagai hal yang sangat penting dalam dunia pengembangan.
-2. Framework dan Library Baru\
+#### 2. Framework dan Library Baru
   React Server Components meningkatkan performa dengan memproses tampilan di server sebelum dikirim ke browser.
     - Vue.js lebih ringan dan mudah digunakan
     - Svelte mengubah kode saat build agar lebih efisien
