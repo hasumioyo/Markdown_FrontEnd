@@ -1,4 +1,4 @@
-# Introduction to JavaScript (Front-End)
+<h1 align="center" style="margin-top: 0px;">Introduction to JavaScript (Front-End)</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,7 +49,9 @@ JavaScript memiliki peran penting dalam pengembangan permainan berbasis web, men
    ![sleep](VUE.png)
 
 ### HTC Global Services
-  ![sleep](HTCGLobal.png)
-\
+<div align="center">
+  <img width = "33%" src="HTCGlobal.png">
+</div>
+  
 HTC Global Services memiliki misi untuk menawarkan solusi teknologi informasi dan proses bisnis yang inovatif, yang dapat mendorong transformasi digital bagi berbagai organisasi di seluruh dunia. Mereka menyediakan layanan seperti pengembangan aplikasi, komputasi awan, analisis data, keamanan siber, serta solusi perusahaan seperti ERP dan CRM. Dengan memanfaatkan teknologi, HTC membantu perusahaan meningkatkan efisiensi, memperbaiki pengalaman pelanggan, dan mengoptimalkan operasi mereka. Dengan penekanan pada kolaborasi dan pembelajaran yang berkelanjutan, perusahaan ini berusaha untuk memberikan solusi yang disesuaikan dengan kebutuhan berbagai industri yang terus berkembang, sehingga memastikan pertumbuhan jangka panjang dan daya saing di era digital.\
 HTC Global Services memanfaatkan JavaScript untuk mendukung pengembangan aplikasi web dan mobile yang modern, responsif, dan interaktif. Dengan menggunakan teknologi ini, HTC berusaha meningkatkan pengalaman pengguna melalui antarmuka yang dinamis dan mempercepat proses pengembangan dengan framework seperti React, Angular, dan Node.js. Selain itu, JavaScript juga memungkinkan pembuatan aplikasi berbasis web dan cloud yang dapat diskalakan dan fleksibel, mendukung transformasi digital di berbagai industri. Dengan menerapkan teknik seperti pemrosesan asinkron dan rendering sisi klien, HTC memastikan bahwa aplikasi yang dikembangkan memiliki performa tinggi dan dapat memenuhi kebutuhan bisnis modern dengan efisien.
