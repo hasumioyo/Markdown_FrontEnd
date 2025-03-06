@@ -27,26 +27,26 @@ JavaScript memiliki peran penting dalam pengembangan permainan berbasis web, men
 ### Tren Pengembangan JavaScript 2025  
 #### 1. Pencocokan Pola dalam JavaScript
   Pencocokan pola memberikan kesempatan bagi pengembanga untuk menulis kode yang lebih rapi dan singkat dibandingkan dengan penggunaan pernyataan if-else tau switch yang biasa. Dengan cara ini, logika kondisional yang rumit bisa disederhanakan sehingga kode menjadi lebih mudah dibaca dan dimengerti. Selain itu, metode ini memastikan bahwa semua kemungkinan situasi sudah ditangani, yang mengurangi kemungkinan terjadinya bug karena skenario yang terlewat. Sintaksis deklaratif yang digunakan juga membantu pengembang untuk lebih fokus pada tujuan logika program, bukan pada rincian implementasinya, sehingga kode menjadi intuitif dan lebih mudah untuk dirawat. Contohnya menggunakan cara ts-pattern:  
-  ![sleep](tspattern1.png)
+  ![TS Pattern](tspattern1.png)
 #### 2. Merangkul Fitur JavaScript Modern
   Fitur-fitur ini sangat penting karena berpengaruh langsung terhadap efisiensi dan keandalan dalam pengembangan perangkat lunak. Dengan sintaks yang lebih sederhana, para pengembang bisa menulis kode dengan lebih cepat dan efisien, yang tentunya meningkatkan produktivitas mereka. Selain itu keterbacaan kode juga menjadi lebih baik berkat fitur-fitur seperti destrukturisasi dan literal templat yang memungkinlan penulisan kode yang lebih ringkas, intuitif dan mudah dipahami oleh anggota tim pengembang lainnya. Tidak hanya itu, fitur seperti rantai opsional dan penggabungan nullish juga membantu mengurangi kemungkinan terjadinya kesalahan runtime yang sering muncul, seperti akses ke properti objek yang tidak ada atau nilai null tidak terduga. Dengan adanya mekanisme ini, para pengembang dapat memastikan bahwa aplikasi yang mereka buat lebih stabil, aman, dan mudah untuk dipelihara dalam jangka panjang.
 - Fungsi panah memberikan cara yang lebih sederhana dan mudah dipahami untuk mendefinisikan fungsi, terutama dalam pemrograman fungsional. Salah satu keuntungannya adalah tidak mengikat konteks `this` sendiri, sehingga bisa menghindari kesalahan yang sering terjadi saat berurusan dengan objek dan kelas. Ini membuatnya sangat cocok digunakan dalam callback, terutama dalam metode array seperti `map`, `filter`, dan `reduce`, di mana fungsi panah dapat membuat sintaksis lebih ringkas dan meningkatkan keterbacaan kode. Dengan bentuk yang lebih sederhana, fungsi panah membantu pengembang menulis kode yang lebih bersih dan efisien tanpa mengorbankan kejelasan.
-   ![sleep](panah1.png)
+   ![Fungsi Panah](panah1.png)
 - Literal templat memberikan kemudahan bagi pengembang untuk membuat string yang lebih fleksibel dan mudah dipahami dengan menggunakan backtick (`). Dengan adanya fitur interpolasi, pengembang bisa langsung menyisipkan variabel ke dalam string tanpa perlu menggunakan operator penggabungan, sehingga kode menjadi lebih ringkas. Selain itu, literal templat juga mendukung string multiline tanpa memerlukan karakter khusus, yang sangat membantu saat menyusun teks panjang atau HTML yang dinamis. Dalam pengembangan web, fitur ini sering dimanfaatkan untuk mempermudah pembuatan elemen HTML secara programatis, sehingga meningkatkan keterbacaan dan efisiensi kode.
-  ![sleep](literaltemplat1.png)
+  ![Literal Templat](literaltemplat1.png)
 - Destrukturisasi memberikan kemudahan bagi pengembang untuk mengambil nilai dari array atau objek dengan cara yang lebih sederhana dan mudah dipahami. Dengan sintaks yang jelas, destrukturisasi membantu mengurangi pengulangan kode saat mengakses elemen atau properti, sehingga membuat kode lebih mudah dibaca dan lebih efisien.
-  ![sleep](destrukturisasi1.png)
+  ![Destrukturisasi](destrukturisasi1.png)
 #### 3. Pemrograman Asinkron Tingkat Lanjut
    Asinkron JavaScript merupakan salah satu fitur paling hebat yang dimilikinya, yang memungkinkan para pengembang untuk mengelola tugas-tugas seperti permintaan API, kueri basis data, dan iteraksi pengguna tanpa harus mengehntikam eksekusi kode lainnya. Dengan memahami teknik asinkron yang lebih kompleks, pengembang bisa membuat aplikasi yang lebih responsif dan efisien. Pola asinkron ini menjadi bagian pentng dalam kerangka kerja modern seperti React, Vue dan Next.js. Dengan semakin populernya aplikasi real-time, teknologi seperti WebSockets dan Server-Sent Events (SSE) menjadi sangat penting untuk komunikasi dua arah yang lancar.
-  ![sleep](asinkron1.png)
+  ![Asinkron](asinkron1.png)
 #### 4. Pengalaman Pengguna (UX) dan Aksesibilitas yang disempurnakan
   TypeScript kini menjadi pilihan utama dakam pengembangan JavaScript modern karena menawarkan pengetikan statis yang dapat mengurangi kesalahan dan meningkatkan kemampuan untuk berkembang. Sebagai superset dari JavaScript, TypeScript memungkinkan para pengembang untuk menetapkan tipe pada variabel, fungsi dan objek, sehingga dapat menghindari kesalahan saat runtime dan memperbaiki pengalaman pengkodean dengan fitur seperti IntelliSense. Dengan semakin banyaknya adopsi, terutama dalam proyek-proyek besar, TypeScript memberikan banyak keuntungan, seperti deteksi kesalahan yang lebih awal, dukungan alat yang lebih baik di IDE seperti VS Code, serta kemudahan dalam pemeliharaan untuk tim yang besar. Selain itu, karena TypeScript dikompliasi menjadi JavaScript biasa, ia tetap dapat digunakan di berbagai lingkungan JavaScript, menjadikannya pilihan yang fleksibel dan kuat untuk pengembanga aplikasi modern.
 - TypeScript sangat cocok digunakan dengan React karena memberikan keamanan tipe pada props dan state, yang membuat kode lebih dapat diandalkan dan lebih mudah untuk dipelihara.
-   ![sleep](react.png)
+   ![React](react.png)
 - TypeScript meningkatkan pengembangan sisi server dengan Node.js dengan menjamin keakuratan API dan middleware, sehingga meningkatkan keandalan dan pemeliharaan kode.
-   ![sleep](API.png)
+   ![API](API.png)
 - Vue 3 dikembangkan dengan dukungan penuh untuk TypeScript. 
-   ![sleep](VUE.png)
+   ![VUE](VUE.png)
 
 ### HTC Global Services
 <div align="center">
@@ -61,3 +61,5 @@ HTC Global Services memanfaatkan JavaScript untuk mendukung pengembangan aplikas
 - [Apa itu JavaScript? Fungsi, Kelebihan, Dan Kekurangannya](https://msbu.co.id/blog/apa-itu-javascript-fungsi-kelebihan-dan-kekurangannya)
 - [Apa itu JavaScript? Pengertian, Fungsi Kelebihan dan Kekurangannya](https://codingstudio.id/blog/apa-itu-javascript-fungsi-dan-keunggulannya/)
 - [Fitur JavaScript Modern yang Harus Dikuasai Setiap Pengembang di Tahun 2025](https://www-growin-com.translate.goog/blog/javascript-features-for-developers/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=Tren%20di%20tahun%202025,memanfaatkan%20fungsionalitas%20serupa%20saat%20ini)
+- [HTC Global Services Frond End Developer](https://id.jobstreet.com/frontend-and-backend-developer-jobs?jobId=82439219&type=standard)
+- [HTC Global Services Website](https://www.htcinc.com/)
