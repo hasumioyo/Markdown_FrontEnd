@@ -1,4 +1,10 @@
 <h1 align="center" style="margin-top: 0px;">Introduction to JavaScript (Front-End)</h1>
+<h3 align="center" style="margin-top: 0px;">Front End: JavaScript Concept Map</h3>
+
+<div align="center">
+  <img width = "110%" src="PetaKonsep(JavaScript).png">
+</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
