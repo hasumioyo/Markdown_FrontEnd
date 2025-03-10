@@ -1,3 +1,6 @@
+Nama Kelompok: Angelina Giovanie Wijaya Lim (24100016), Meriyanti (24100006), Stefani (24100012)
+
+
 <h1 align="center" style="margin-top: 0px;">Introduction to JavaScript (Front-End)</h1>
 <h3 align="center" style="margin-top: 0px;">Front End: JavaScript Concept Map</h3>
 
@@ -98,4 +101,3 @@ HTC Global Services memanfaatkan JavaScript untuk mendukung pengembangan aplikas
 - [HTC Global Services Frond End Developer](https://id.jobstreet.com/frontend-and-backend-developer-jobs?jobId=82439219&type=standard)
 - [HTC Global Services Website](https://www.htcinc.com/)
 
-Nama Kelompok: Angelina, Meriyanti, Stefani
